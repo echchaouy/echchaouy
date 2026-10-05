@@ -65,7 +65,3 @@ My research focuses on phenomenological studies of **Beyond the Standard Model (
 * 💼 LinkedIn: [Mohamed Ech-Chaouy](https://www.linkedin.com/in/mohamed-ech-chaouy-798574315/)
 * 💻 GitHub: [@echchaouy](https://github.com/echchaouy)
 
----
-
-⭐ Feel free to explore my repositories and research projects!
-
