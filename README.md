@@ -2,7 +2,7 @@
 
 🎓 **PhD Student in High Energy Physics**
 🔬 Particle Physics | Beyond the Standard Model | Collider Phenomenology
-💻 Python | Machine Learning | MadGraph | Pythia | ROOT
+💻 Python | Machine Learning | ROOT
 
 ---
 
